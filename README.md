@@ -5,7 +5,7 @@ This project was created as part of the requirements for a Bachelor's Degree in 
 
 ## Contents
 This project contains the following files:
-- `main.py`: the main Python script that checks the CAD file for the requirements
+- `run.py`: the main Python script that checks the CAD file for the requirements
 - `cad_file.dwg`: a sample CAD file to be checked
 
 ## Usage
